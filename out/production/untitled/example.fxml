@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="598.0" prefWidth="1070.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutX="301.0" layoutY="14.0" prefHeight="122.0" prefWidth="670.0" text="Auto Completion Form">
+         <font>
+            <Font name="MV Boli" size="45.0" />
+         </font>
+      </Label>
+      <AutoCompleteTextField layoutX="301.0" layoutY="183.0" prefHeight="343.0" prefWidth="502.0" />
+      <Button layoutX="59.0" layoutY="318.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="175.0" text="Button" />
+      <Button layoutX="59.0" layoutY="416.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="175.0" text="Button" />
+      <Button layoutX="59.0" layoutY="225.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="175.0" text="Button" />
+      <Button layoutX="855.0" layoutY="225.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="175.0" text="Button" />
+      <Button layoutX="855.0" layoutY="329.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="175.0" text="Button" />
+      <Button layoutX="855.0" layoutY="428.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="175.0" text="Button" />
+   </children>
+</Pane>
